@@ -6,3 +6,5 @@ a simple implementation of CG functions
 dandelion's related framework is located: https://github.com/XJTU-Graphics/dandelion
 
 For building, see the dandelion framework's developer documentation at: https://dandelion-docs.readthedocs.io/zh-cn/latest/
+
+I've basically done a shadow mapping based shadowing implementation, with the semi-finished ones in the relevant folders.
