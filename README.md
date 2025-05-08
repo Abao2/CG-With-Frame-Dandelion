@@ -1,4 +1,4 @@
-# CG with frame Dandelion
+# CG with Dandelion
 a simple implementation of CG functions
 
    dandelion framework is used to realize soft raster renderer, parallel optimization of rendering, BVH collision detection, forward Euler, backward Euler, semi-implicit Euler method, fourth-order Rung-Kuta method to simulate motion, and local operation based on half edge network.
